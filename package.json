@@ -1,6 +1,6 @@
 {
   "name": "ovo-local-llm",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A private Claude-Code-style coding agent for Apple Silicon \u2014 run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
   "main": "src/index.ts",
   "scripts": {
